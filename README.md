@@ -1,2 +1,2 @@
-# Algorithms-Fundamentals-with-C-
+# Algorithms-Fundamentals-with-C-#
 Course at @SoftUni
